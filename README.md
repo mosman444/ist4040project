@@ -81,6 +81,7 @@ A classification model was built to predict patient admission severity:
 ## 👥 Contributors
 - Muna Osman  
 - Mark Nderitu
+- John Eric Chege Mwangi
 
 ---
 
