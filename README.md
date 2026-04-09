@@ -7,7 +7,7 @@ This project focuses on analyzing healthcare data to uncover meaningful patterns
 
 ##  Objectives
 - Clean and preprocess raw healthcare data  
-- Perform exploratory data analysis (EDA)  
+- Perform exploratory data analysis (EDA) 
 - Visualize key patterns and trends  
 - Build a machine learning model to predict patient admission severity  
 
